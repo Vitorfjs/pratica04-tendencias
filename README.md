@@ -29,5 +29,5 @@ O objetivo do laboratório é analisar como os parâmetros do algoritmo BM25 inf
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/Vitorfjs/pratica04-tendencias.git](https://github.com/Vitorfjs/pratica04-tendencias.git)
+git clone https://github.com/Vitorfjs/pratica04-tendencias.git
 cd pratica04-tendencias
